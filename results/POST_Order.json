@@ -1,0 +1,26 @@
+{
+  "id": "bd274d2c-9fb1-4527-94ba-aa7d4aa65d38",
+  "orderNumber": "250709144648-5d38",
+  "status": "Pending",
+  "createdAt": "2025-07-09T06:46:48.052Z",
+  "updatedAt": "2025-07-09T06:46:48.104Z",
+  "memberId": "cb145885-e7b9-4517-bb44-b22304b7dd6b",
+  "sentCount": 0,
+  "subTotal": 600,
+  "discount": 0,
+  "total": 600,
+  "orderItems": [
+    {
+      "name": "lol",
+      "ticketTypeId": "6d4b4890-dc1e-4b3c-8b83-a4f4b83aff6c",
+      "dates": [
+        "2025-07-25",
+        "2025-07-28",
+        "2025-07-29"
+      ],
+      "quantity": 3
+    }
+  ],
+  "qfpayUrl": "https://openapi-hk.qfapi.com/checkstand/#/?appcode=25D16004FA664A93A8FBB4458475F540&checkout_expired_time=1752044508092&failed_url=acghk%3A%2F%2F%2FBuyTicketsFailed%2F250709144648-5d38&out_trade_no=250709144648-5d38&paysource=remotepay_checkout&return_url=acghk%3A%2F%2F%2FBuyTicketsSuccess%2F250709144648-5d38&sign_type=sha256&txamt=60000&txcurrcd=HKD&txdtm=2025-07-09%2014%3A46%3A48&udid=cb145885-e7b9-4517-bb44-b22304b7dd6b&sign=51cf00a1ad67b78eb7cbd25bb9bc179c23793c211b81e0819a8a152c6db627fc&lang=zh-hk",
+  "paymentUrl": "https://openapi-hk.qfapi.com/checkstand/#/?appcode=25D16004FA664A93A8FBB4458475F540&checkout_expired_time=1752044508092&failed_url=acghk%3A%2F%2F%2FBuyTicketsFailed%2F250709144648-5d38&out_trade_no=250709144648-5d38&paysource=remotepay_checkout&return_url=acghk%3A%2F%2F%2FBuyTicketsSuccess%2F250709144648-5d38&sign_type=sha256&txamt=60000&txcurrcd=HKD&txdtm=2025-07-09%2014%3A46%3A48&udid=cb145885-e7b9-4517-bb44-b22304b7dd6b&sign=51cf00a1ad67b78eb7cbd25bb9bc179c23793c211b81e0819a8a152c6db627fc&lang=zh-hk"
+}

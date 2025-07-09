@@ -1,0 +1,340 @@
+{
+  "current_page": 1,
+  "items": [
+    {
+      "id": "583f0789-4770-47e4-bef1-217242302d8d",
+      "title": {
+        "zh-Hans": "一般门票",
+        "en": "General Ticket",
+        "zh-Hant": "一般門票"
+      },
+      "tags": {
+        "zh-Hans": [
+          "单次入场",
+          "1C 入口"
+        ],
+        "en": [
+          "Single Entry",
+          "1C Entrance"
+        ],
+        "zh-Hant": [
+          "單次入場",
+          "1C 入口"
+        ]
+      },
+      "type": "Single",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 99,
+      "price": 45,
+      "ordering": 1,
+      "themeColor": "#FCC00D",
+      "terms": {
+        "zh-Hans": "<h1>$45一般门票条款及使用规则 :</h1><ol><li>不设退票，此票不能兑换现金。</li><li>门票于2025年7月25日至29日展期之开放时间内有效，逾期作废。</li><li>展览时间：每日10am-9pm (7月29日8pm闭馆)；Hall 3 每日上午11点开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>每票只限一人使用、进场一次，离场后须再购票入场。</li><li>亲子/长者/旅客/伤健人士请往1B通道 (10:30am开放)入场，须出示有效之证明文件。</li><li>使用1B通道时，每位11岁或以下持票小童最多可由2位持票成年人陪同；每位持票长者或伤健人士可由1位持票成年人陪同。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>任何参观者若违反大会规则或骚扰展览会进行，主办机构有权要求该参观者即时离场。</li><li>大会保留更改入场票「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for $45 General Ticket :</h1><ol><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The ticket is valid only during the exhibition period from July 25-29, 2025. It will be void after the expiration date.</li><li>Exhibition hours: 10am-9pm daily (closing at 8pm on July 29 ). Hall 3 opens every day at 11am.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>Each ticket is valid for one person and allows one-time entry only. Re-entry requires purchasing a new ticket.</li><li>Parents-n-kids, seniors citizens, tourists, and persons with disabilities may enter through Entrance 1B. (Entrance 1B opens at 10:30am daily). Valid proof of eligibility must be presented.</li><li>When entering through Entrance 1B, each ticketed child aged 11 or below can be accompanied by a maximum of 2 ticketed adult companions; each ticketed senior or person with disabilities can be accompanied by 1 ticketed adult companion.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>The Organizer reserves the right to require any visitors who violate the rules or disturb the exhibition to leave immediately.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission ticket. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this ticket.</li></ol>",
+        "zh-Hant": "<h1>$45一般門票條款及使用規則 :</h1><ol><li>不設退票，此票不能兌換現金。</li><li>門票於2025年7月25日至29日展期之開放時間內有效，逾期作廢。</li><li>展覽時間：每日10am-9pm (7月29日8pm閉館)；Hall 3 每日上午11點開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>每票只限一人使用、進場一次，離場後須再購票入場。</li><li>親子/長者/旅客/傷健人士請往1B通道 (10:30am開放)入場，須出示有效之證明文件。</li><li>使用1B通道時，每位11歲或以下持票小童最多可由2位持票成年人陪同；每位持票長者或傷健人士可由1位持票成年人陪同。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>任何參觀者若違反大會規則或騷擾展覽會進行，主辦機構有權要求該參觀者即時離場。</li><li>大會保留更改入場票「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "halls": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "b731c6e2-c9c5-400e-a5ff-f12a5f56f973",
+      "title": {
+        "zh-Hans": "小童门票",
+        "en": "Child Ticket",
+        "zh-Hant": "小童門票"
+      },
+      "description": {
+        "zh-Hans": "3-11岁小童须购买小童门票 (进场时须出示附有相片之证明文件，如学生证。)；身高95cm或以上而未能提供年龄证明之人士，则需购买一般门票。 11岁或以下持票小童(2岁或以下小童可免费进场)必须由18岁或以上之持票人士陪同 (最多两名持票成年人陪同)。",
+        "en": "Child aged 3-11 must purchase a child ticket (a photo ID such as a student ID must be presented upon entry); unless otherwise proven by document and height is exceeds 95cm, must purchase general ticket. Free admission is granted to children under 2-year-old. Children aged 11 or below must be accompanied by a person aged 18 or above.",
+        "zh-Hant": "3-11歲小童須購買小童門票 (進場時須出示附有相片之證明文件，如學生證。)；身高95cm或以上而未能提供年齡證明之人士，則需購買一般門票。11歲或以下持票小童(2歲或以下小童可免費進場)必須由18歲或以上之持票人士陪同 (最多兩名持票成年人陪同)。"
+      },
+      "tags": {
+        "zh-Hans": [
+          "小童",
+          "3-11岁",
+          "单次入场",
+          "1B 特快通道",
+          "10:30AM开放",
+          "须成人陪同"
+        ],
+        "en": [
+          "Child",
+          "Aged 3-11",
+          "Single Entry",
+          "1B Entrance",
+          "Opens At 10:30AM",
+          "Accompanied By Aged 18+"
+        ],
+        "zh-Hant": [
+          "小童",
+          "3-11歲",
+          "單次入場",
+          "1B 特快通道",
+          "10:30AM開放",
+          "須成人陪同"
+        ]
+      },
+      "type": "Single",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 99,
+      "price": 20,
+      "ordering": 2,
+      "themeColor": "#683990",
+      "terms": {
+        "zh-Hans": "<h1>$20小童门票条款及使用规则 :</h1><ol><li>不设退票，此票不能兑换现金。</li><li>门票于2025年7月25日至29日展期之开放时间内有效，逾期作废。</li><li>展览时间：每日10am-9pm (7月29日8pm闭馆)；Hall 3 每日上午11点开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>每票只限一人使用、进场一次，离场后须再购票入场。</li><li>3-11岁小童须购买小童门票 (进场时须出示附有相片之证明文件，如学生证。)；身高95cm或以上而未能提供年龄证明之人士，则需购买一般门票。 11岁或以下持票小童(2岁或以下小童可免费进场)必须由18岁或以上之持票人士陪同 (最多两名持票成年人陪同)。</li><li>请直接前往1B通道入场，1B通道每日10:30am开放。</li><li>使用1B通道时，每位11岁或以下持票小童最多可由2位持票成年人陪同。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>任何参观者若违反大会规则或骚扰展览会进行，主办机构有权要求该参观者即时离场。</li><li>大会保留更改入场票「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for $20 Child Ticket :</h1><ol><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The ticket is valid only during the exhibition period from July 25-29, 2025. It will be void after the expiration date.</li><li>Exhibition hours: 10am-9pm daily (closing at 8pm on July 29). Hall 3 opens every day at 11am.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>Each ticket is valid for one person and allows one-time entry only. Re-entry requires purchasing a new ticket.</li><li>Child aged 3-11 must purchase a child ticket (a photo ID such as a student ID must be presented upon entry); unless otherwise proven by document and height is exceeds 95cm, must purchase general ticket. Free admission is granted to children under 2-year-old. Children aged 11 or below must be accompanied by a person aged 18 or above.</li><li>Please proceed directly to Entrance 1B, which opens at 10:30am daily.</li><li>When entering through Entrance 1B, each ticketed child aged 11 or below can be accompanied by a maximum of 2 ticketed adult companions.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>The Organizer reserves the right to require any visitors who violate the rules or disturb the exhibition to leave immediately.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission ticket. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this ticket.</li></ol>",
+        "zh-Hant": "<h1>$20小童門票條款及使用規則 :</h1><ol><li>不設退票，此票不能兌換現金。</li><li>門票於2025年7月25日至29日展期之開放時間內有效，逾期作廢。</li><li>展覽時間：每日10am-9pm (7月29日8pm閉館)；Hall 3 每日上午11點開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>每票只限一人使用、進場一次，離場後須再購票入場。</li><li>3-11歲小童須購買小童門票 (進場時須出示附有相片之證明文件，如學生證。)；身高95cm或以上而未能提供年齡證明之人士，則需購買一般門票。11歲或以下持票小童(2歲或以下小童可免費進場)必須由18歲或以上之持票人士陪同。</li><li>請直接前往1B通道入場，1B通道每日10:30am開放。</li><li>使用1B通道時，每位11歲或以下持票小童最多可由2位持票成年人陪同。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>任何參觀者若違反大會規則或騷擾展覽會進行，主辦機構有權要求該參觀者即時離場。</li><li>大會保留更改入場票「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "halls": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "784daef4-9ec2-4866-940f-7aac4ba5ca5b",
+      "title": {
+        "zh-Hans": "3回特快入场券",
+        "en": "3-Times Express Ticket",
+        "zh-Hant": "3回特快入場券"
+      },
+      "image": "https://acg23-cdn.acghk.cc/tickets/3-times-express-ticket.png",
+      "imageByLang": {
+        "zh-Hans": "https://acg23-cdn.acghk.cc/tickets/3-times-express-ticket.png",
+        "en": "https://acg23-cdn.acghk.cc/tickets/3-times-express-ticket.png",
+        "zh-Hant": "https://acg23-cdn.acghk.cc/tickets/3-times-express-ticket.png"
+      },
+      "tags": {
+        "zh-Hans": [
+          "3次入场",
+          "1B 特快通道",
+          "限量6,000套",
+          "每人限购2套",
+          "10:30AM开放"
+        ],
+        "en": [
+          "3 Entries",
+          "1B Entrance",
+          "Limited to 6,000 Sets",
+          "Max. 2 Sets Per Person",
+          "Opens At 10:30AM"
+        ],
+        "zh-Hant": [
+          "3次入場",
+          "1B 特快通道",
+          "限量6,000套",
+          "每人限購2套",
+          "10:30AM開放"
+        ]
+      },
+      "type": "Multiple",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 2,
+      "price": 300,
+      "ordering": 3,
+      "themeColor": "#ED591A",
+      "terms": {
+        "zh-Hans": "<h1>3回特快入场券条款及使用规则 :</h1><ol><li>每人限购两套「3回特快入场券」。</li><li>此套票可进场3次，进场3次后须再购票入场。每票只限一人使用及进场。</li><li>请直接前往1B通道入场，1B通道每日10:30am开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>不设退票，此票不能兑换现金。</li><li>门票于2025年7月25日至29日展期之开放时间内有效，逾期作废。</li><li>展览时间：每日10am-9pm (7月29日8pm闭馆)；Hall 3 每日上午11点开放。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>任何参观者若违反大会规则或骚扰展览会进行，主办机构有权要求该参观者即时离场。</li><li>大会保留更改入场票「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for 3-Times Express Ticket :</h1><ol><li>Each person is limited to purchasing two sets of \"3-Times Express Ticket\".</li><li>This ticket package allows 3 entries. After the 3 entries, a new ticket must be purchased for re-entry. Each ticket is valid for one person and one-time entry only.</li><li>Please proceed directly to Entrance 1B, which opens at 10:30am daily.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The ticket is valid only during the exhibition period from July 25-29, 2025. It will be void after the expiration date.</li><li>Exhibition hours: 10am-9pm daily (closing at 8pm on July 29 ). Hall 3 opens every day at 11am.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>The Organizer reserves the right to require any visitors who violate the rules or disturb the exhibition to leave immediately.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission ticket. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this ticket.</li></ol>",
+        "zh-Hant": "<h1>3回特快入場券條款及使用規則 :</h1><ol><li>每人限購兩套「3回特快入場券」。</li><li>此套票可進場3次，進場3次後須再購票入場。每票只限一人使用及進場。</li><li>請直接前往1B通道入場，1B通道每日10:30am開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>不設退票，此票不能兌換現金。</li><li>門票於2025年7月25日至29日展期之開放時間內有效，逾期作廢。</li><li>展覽時間：每日10am-9pm (7月29日8pm閉館)；Hall 3 每日上午11點開放。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>任何參觀者若違反大會規則或騷擾展覽會進行，主辦機構有權要求該參觀者即時離場。</li><li>大會保留更改入場票「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "halls": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "67ef2d7c-ae00-421d-bbac-8f814becf1f8",
+      "title": {
+        "zh-Hans": "动漫节年度纪念品门票 - 御守快线门票",
+        "en": "ACG Annual Souvenir Ticket - Omamori Express Ticket",
+        "zh-Hant": "動漫節年度紀念品門票 - 御守快線門票"
+      },
+      "image": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+      "imageByLang": {
+        "zh-Hans": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+        "en": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023-en.png",
+        "zh-Hant": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png"
+      },
+      "tags": {
+        "zh-Hans": [
+          "单次入场",
+          "1B 特快通道",
+          "动漫御守盲盒",
+          "每人限购2套",
+          "限量6,000套",
+          "10:30AM开放"
+        ],
+        "en": [
+          "Single Entry",
+          "1B Entrance",
+          "ACG Omamori Blind Box",
+          "Max. 2 Sets Per Person",
+          "Limited to 6,000 Sets",
+          "Opens At 10:30AM"
+        ],
+        "zh-Hant": [
+          "單次入場",
+          "1B 特快通道",
+          "動漫御守盲盒",
+          "每人限購2套",
+          "限量6,000套",
+          "10:30AM開放"
+        ]
+      },
+      "type": "EleFunPass",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 2,
+      "price": 150,
+      "ordering": 4,
+      "themeColor": "#E4001C",
+      "terms": {
+        "zh-Hans": "<h1>御守快线门票条款及使用规则 :</h1><ol><li>每人限购两张御守快线门票。</li><li>请直接前往1B通道入场，1B通道每日10:30am开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>不设退票，此票不能兑换现金。</li><li>门票于2025年7月25日至29日展期之开放时间内有效，逾期作废。</li><li>展览时间：每日10am-9pm (7月29日8pm闭馆)；Hall 3 每日上午11点开放。</li><li>每票只限一人使用、进场一次，离场后须再购票入场。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>任何参观者若违反大会规则或骚扰展览会进行，主办机构有权要求该参观者实时离场。</li><li>大会保留更改入场票「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for Omamori Express Ticket :</h1><ol><li>Each person is limited to purchasing two sets of  Omamori Express Ticket.</li><li>Please proceed directly to Entrance 1B, which opens at 10:30am daily.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The ticket is valid only during the exhibition period from July 25-29, 2025. It will be void after the expiration date.</li><li>Exhibition hours: 10am-9pm daily (closing at 8pm on July 29 ). Hall 3 opens every day at 11am.</li><li>Each ticket is valid for one person and one entry only. Re-entry requires purchasing a new ticket.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>The Organizer reserves the right to require any visitors who violate the rules or disturb the exhibition to leave immediately.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission ticket. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this ticket.</li></ol>",
+        "zh-Hant": "<h1>御守快線門票條款及使用規則 :</h1><ol><li>每人限購兩張御守快線門票。</li><li>請直接前往1B通道入場，1B通道每日10:30am開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>不設退票，此票不能兌換現金。</li><li>門票於2025年7月25日至29日展期之開放時間內有效，逾期作廢。</li><li>展覽時間：每日10am-9pm (7月29日8pm閉館)；Hall 3 每日上午11點開放。</li><li>每票只限一人使用、進場一次，離場後須再購票入場。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>任何參觀者若違反大會規則或騷擾展覽會進行，主辦機構有權要求該參觀者即時離場。</li><li>大會保留更改入場票「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "halls": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "266fe9fa-6c1e-40ba-b027-0df68eb13b97",
+      "title": {
+        "zh-Hans": "Cosplayer登记证 (售罄)",
+        "en": "Cosplayer Registration Pass (Sold Out)",
+        "zh-Hant": "Cosplayer登記證 (售罄)"
+      },
+      "image": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+      "imageByLang": {
+        "zh-Hans": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+        "en": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023-en.png",
+        "zh-Hant": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png"
+      },
+      "tags": {
+        "zh-Hans": [
+          "指定日期登记证",
+          "CosParadise",
+          "创天",
+          "每天限量3,500名",
+          "Cosplayer专用",
+          "Hall 3",
+          "实名登记"
+        ],
+        "en": [
+          "Dated Admission Pass",
+          "CosParadise",
+          "Creative Paradise",
+          "Limited 3,500 Per Day",
+          "Cosplayer-Exclusive",
+          "Hall 3",
+          "Real-name registration"
+        ],
+        "zh-Hant": [
+          "指定日期登記證",
+          "CosParadise",
+          "創天",
+          "每天限量3,500名",
+          "Cosplayer專用",
+          "Hall 3",
+          "實名登記"
+        ]
+      },
+      "type": "Cosplayer",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 0,
+      "price": 45,
+      "ordering": 5,
+      "themeColor": "#139CE9",
+      "terms": {
+        "zh-Hans": "<h1>Cosplayer登记证条款及使用规则 :</h1><ol><li>每人每日限登记一张指定日期通行证。购票时须实名登记姓名(须与身份证相符，入场时须出示身份证明核对)。</li><li>每证只限一人使用，可于当天无限次进出Hall 3 创天综合同人祭及 CosParadise，及5pm后进入Hall 1场馆一次。</li><li>请直接前往Hall 3E通道入场，Hall 3E通道每日11am开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>初次进场时需出示Cosplay角色原图(官方图片)及Cosplay服饰(或已完成装扮)。</li><li>切勿穿着过于裸露或不适宜出现于公众场合的装扮，敬请自律。</li><li>不可使用手机以外的摄影器材进行摄影。拍照摄影时请勿做出推倒、压倒或挥舞大型道具等不雅及危险动作。</li><li>严禁于场馆内进行任何形式的商业活动(不论现付/预付)。</li><li>严禁携带大容量充电器到会场，高于100Wh (约27,000mAh)之充电器一律禁止使用。</li><li>可免费使用更衣室、Cosplay自助站，行李寄存服务则需自费。</li><li>严禁长期霸占场内洗手间更衣或化妆，请善用大会提供的Cosplay更衣室。</li><li>严禁于场内外设置任何霸占公用空间的设备或物品，包括但不限于地毯/帐篷/支架/脚架/布景/座地照明装置(任何尺寸)等，亦不可使用边长超过30厘米的照明用品或灯具(不论手提或座地)；如有违规，大会有权即时清理有关物品而不作另行通知。</li><li>严禁放置行李于场内以免占用场内空间，请善用「Cosplayer行李寄存服务」。如发现无人看管之行李，将当作失物处置。</li><li>不设退款，此证不能兑换现金。</li><li>此证只限指定日期使用，逾​​期作废。</li><li>CosParadise开放时间：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>必须遵守CosParadise及创天综合同人祭场地守则及大会工作人员的指示，否则大会有权要求违规者离开会场。</li><li>大会保留更改此证「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for Cosplayer Registration Pass :</h1><ol><li>Each person is limited to purchasing one date-specific pass per day. When purchasing pass, real-name registration is required (the name must match the ID card, and identification must be presented for verification upon entry).</li><li>Each pass is valid for one person only and allows unlimited entry and re-entry to Hall 3 Creative Paradise & CosParadise on the specified date, as well as one entry to Hall 1 after 5 PM.</li><li>Please proceed directly to Hall 3E, which opens at 11:00am daily.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>Please present the original image of your Cosplay character (official images) and your Cosplay outfit (or completed costume) upon initial entering CosParadise.</li><li>Please do not wear excessively revealing or inappropriate outfits for a public event.</li><li>Photography is only allowed using mobile devices, and the use of any other camera equipment is prohibited. When taking photos, please refrain from performing inappropriate or dangerous actions such as pushing, knocking down, or waving large props.</li><li>Any form of commercial activity (whether paid on the spot or pre-paid) is strictly prohibited within the venue.</li><li>Bringing large-capacity chargers to the venue is strictly prohibited. Chargers over 100Wh (approximately 27,000mAh) are not allowed for use.</li><li>You can use the dressing rooms and Cosplay self-service stations for free, but the baggage storage service requires an additional fee.</li><li>Prolonged occupation of the venue's restrooms for changing or makeup is strictly prohibited.Please make use of the Cosplay changing rooms provided by the event.</li><li>Strictly prohibited to set up any equipment or items that occupy public space inside or outside the Hall, including but not limited to carpets, tents, stands, tripods, backdrops, and ground lighting devices (of any size). Additionally, lighting equipment or lamps with a side length exceeding 30 cm (whether portable or stationary) are not allowed. If there are any violations, the organizers reserve the right to remove the related items immediately without further notice.</li><li>Leaving luggage unattended within the venue is prohibited to avoid occupying space. Please use the \"Cosplayer Luggage Storage Service\". Unattended luggage will be treated as lost property.</li><li>No refunds will be given for this pass, and it cannot be exchanged for cash.</li><li>The pass is only valid for the specified date and will expire after that date.</li><li>CosParadise operating hours: July 25-28, 11am-9pm; July 29, 11am-8pm.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>Visitors must comply with the CosParadise & Creative Paradise venue rules and follow the instructions of the Organiser, or they may be asked to leave the Exhibition.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission pass. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this pass.</li></ol>",
+        "zh-Hant": "<h1>Cosplayer登記證條款及使用規則 :</h1><ol><li>每人每日限登記一張指定日期通行證。購票時須實名登記姓名(須與身份證相符，入場時須出示身份證明核對)。</li><li>每證只限一人使用，可於當天無限次進出Hall 3 創天綜合同人祭及 CosParadise，及5pm後進入Hall 1場館一次。</li><li>請直接前往Hall 3E通道入場，Hall 3E通道每日11am開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>5. 初次進場時需出示Cosplay角色原圖(官方圖片)及Cosplay服飾(或已完成裝扮)。</li><li>切勿穿著過於裸露或不適宜出現於公眾場合的裝扮，敬請自律。</li><li>不可使用手機以外的攝影器材進行攝影。拍照攝影時請勿做出推倒、壓倒或揮舞大型道具等不雅及危險動作。</li><li>嚴禁於場館內進行任何形式的商業活動(不論現付/預付)。</li><li>嚴禁攜帶大容量充電器到會場，高於100Wh (約27,000mAh)之充電器一律禁止使用。</li><li>可免費使用更衣室、Cosplay自助站，行李寄存服務則需自費。</li><li>嚴禁長期霸佔場內洗手間更衣或化妝，請善用大會提供的Cosplay更衣室。</li><li>嚴禁於場內外設置任何霸佔公用空間的設備或物品，包括但不限於地毯/帳篷/支架/腳架/佈景/座地照明裝置(任何尺寸)等，亦不可使用邊長超過30厘米的照明用品或燈具(不論手提或座地)；如有違規，大會有權即時清理有關物品而不作另行通知。</li><li>嚴禁放置行李於場內以免佔用場內空間，請善用「Cosplayer行李寄存服務」。如發現無人看管之行李，將當作失物處置。</li><li>不設退款，此證不能兌換現金。</li><li>此證只限指定日期使用，逾期作廢。</li><li>CosParadise開放時間：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>必須遵守CosParadise及創天綜合同人祭場地守則及大會工作人員的指示，否則大會有權要求違規者離開會場。</li><li>大會保留更改此證「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "dates": [],
+      "halls": [
+        1,
+        3
+      ]
+    },
+    {
+      "id": "6d4b4890-dc1e-4b3c-8b83-a4f4b83aff6c",
+      "title": {
+        "zh-Hans": "CosParadise摄影师入场证",
+        "en": "Photographer's Pass",
+        "zh-Hant": "CosParadise攝影師入場證"
+      },
+      "image": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+      "imageByLang": {
+        "zh-Hans": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+        "en": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023-en.png",
+        "zh-Hant": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png"
+      },
+      "tags": {
+        "zh-Hans": [
+          "指定日期入场证",
+          "CosParadise",
+          "创天",
+          "每天限量500名",
+          "摄影师",
+          "Hall 3",
+          "实名登记"
+        ],
+        "en": [
+          "Dated Admission Pass",
+          "CosParadise",
+          "Creative Paradise",
+          "Limited 500 Units Per Day",
+          "Photographer",
+          "Hall 3",
+          "Real-name registration"
+        ],
+        "zh-Hant": [
+          "指定日期入場證",
+          "CosParadise",
+          "創天",
+          "每天限量500名",
+          "攝影師",
+          "Hall 3",
+          "實名登記"
+        ]
+      },
+      "type": "Photographer",
+      "status": "Enabled",
+      "startAt": "2025-07-24T16:00:00.000Z",
+      "expiredAt": "2025-07-29T15:59:59.999Z",
+      "maxPurchaseQuantity": 5,
+      "price": 200,
+      "ordering": 6,
+      "themeColor": "#ED1C25",
+      "terms": {
+        "zh-Hans": "<h1>CosParadise摄影师入场证条款及使用规则 :</h1><ol><li>每人每日限购一张指定日期入场证，购票时须实名登记姓名(须与身份证相符，入场时须出示身份证明核对)。</li><li>每证只限一人使用，可于当天无限次进出Hall 3 创天综合同人祭及 CosParadise，唯不可进入Hall 1场馆。</li><li>请直接前往Hall 3E通道入场，Hall 3E通道每日11:00am开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>可使用相机或录影机，唯不可以任何形式使用脚架等霸占地方的设备。</li><li>严禁于场内外设置任何霸占公用空间的设备或物品，包括但不限于地毯/帐篷/支架/脚架/布景/座地照明装置(任何尺寸)等，亦不可使用边长超过30厘米的照明用品或灯具(不论手提或座地)；如有违规，大会有权即时清理有关物品而不作另行通知。</li><li>严禁偷拍及盗录，拍摄前请先征求对象同意。</li><li>严禁携带大容量充电器到会场，高于100Wh (约27,000mAh)之充电器一律禁止使用。</li><li>严禁于场馆内进行任何形式的商业活动(不论现付/预付)。</li><li>不设退款，此证不能兑换现金。</li><li>此证只限指定日期使用，逾​​期作废。</li><li>CosParadise及创天综合同人祭开放时间：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>必须遵守CosParadise及创天综合同人祭场地守则及大会工作人员的指示，否则大会有权要求违规者离开会场。</li><li>大会保留更改此证「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+        "en": "<h1>Terms and Conditions for Photographer's Pass :</h1><ol><li>Each person is limited to purchasing one date-specific pass per day. When purchasing pass, real-name registration is required (the name must match the ID card, and identification must be presented for verification upon entry).</li><li>Each pass is valid for one person only and allows unlimited entry and re-entry to Hall 3 Creative Paradise & CosParadise on the specified date, but does not grant access to Hall 1.</li><li>Please proceed directly to Hall 3, which opens at 11:00am daily.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>Photography and videography are allowed, but the use of tripods or other equipment that occupies excessive space is prohibited.</li><li>Strictly prohibited to set up any equipment or items that occupy public space inside or outside the Hall, including but not limited to carpets, tents, stands, tripods, backdrops, and ground lighting devices (of any size). Additionally, lighting equipment or lamps with a side length exceeding 30 cm (whether portable or stationary) are not allowed. If there are any violations, the organizers reserve the right to remove the related items immediately without further notice.</li><li>Strictly prohibited from unauthorized photography and video recording. Please obtain the subject's consent before taking photos or videos.</li><li>Bringing large-capacity chargers to the venue is strictly prohibited. Chargers over 100Wh (approximately 27,000mAh) are not allowed for use.</li><li>Any form of commercial activity (whether paid on the spot or pre-paid) is strictly prohibited within the venue.</li><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The pass is only valid for the specified date and will expire after that date.</li><li>CosParadise & Creative Paradise operating hours: July 25-28, 11am-9pm; July 29, 11am-8pm.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>Visitors must comply with the CosParadise & Creative Paradise venue rules and follow the instructions of the Organiser, or they may be asked to leave the Exhibition.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission pass. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this pass.</li></ol>",
+        "zh-Hant": "<h1>CosParadise攝影師入場證條款及使用規則 :</h1><ol><li>每人每日限購一張指定日期入場證，購票時須實名登記姓名(須與身份證相符，入場時須出示身份證明核對)。</li><li>每證只限一人使用，可於當天無限次進出Hall 3 創天綜合同人祭及 CosParadise，唯不可進入Hall 1場館。</li><li>請直接前往Hall 3E通道入場，Hall 3E通道每日11:00am開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>可使用相機或錄影機，唯不可以任何形式使用腳架等霸佔地方的設備。</li><li>嚴禁於場內外設置任何霸佔公用空間的設備或物品，包括但不限於地毯/帳篷/支架/腳架/佈景/座地照明裝置(任何尺寸)等，亦不可使用邊長超過30厘米的照明用品或燈具(不論手提或座地)；如有違規，大會有權即時清理有關物品而不作另行通知。</li><li>嚴禁偷拍及盜錄，拍攝前請先徵求對象同意。</li><li>嚴禁攜帶大容量充電器到會場，高於100Wh (約27,000mAh)之充電器一律禁止使用。</li><li>嚴禁於場館內進行任何形式的商業活動(不論現付/預付)。</li><li>不設退款，此證不能兌換現金。</li><li>此證只限指定日期使用，逾期作廢。</li><li>CosParadise及創天綜合同人祭開放時間：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>必須遵守CosParadise及創天綜合同人祭場地守則及大會工作人員的指示，否則大會有權要求違規者離開會場。</li><li>大會保留更改此證「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+      },
+      "dates": [
+        "2025-07-25",
+        "2025-07-28",
+        "2025-07-29"
+      ],
+      "halls": [
+        3
+      ]
+    }
+  ],
+  "items_per_page": 20,
+  "page_count": 1,
+  "total_item_count": 6,
+  "coming_soon": []
+}

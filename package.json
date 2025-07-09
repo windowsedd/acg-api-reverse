@@ -1,0 +1,20 @@
+{
+	"name": "acg-api-reverse",
+	"module": "index.ts",
+	"author": {
+		"email": "me@windowsed.me",
+		"name": "windowsed"
+	},
+	"type": "commonjs",
+	"devDependencies": {
+		"@types/bun": "latest"
+	},
+	"peerDependencies": {
+		"typescript": "^5"
+	},
+	"dependencies": {
+		"@types/dotenv": "^8.2.3",
+		"axios": "^1.10.0",
+		"dotenv": "^17.1.0"
+	}
+}

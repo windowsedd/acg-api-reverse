@@ -1,0 +1,23 @@
+{
+	"email": "",
+	"memberNumber": "",
+	"status": "Enabled",
+	"lastLoggedInAt": "2025-07-09T05:59:40.893Z",
+	"lastName": "",
+	"firstName": "",
+	"gender": "M",
+	"yearOfBirth": "",
+	"monthOfBirth": "",
+	"countryCode": "852",
+	"phone": "",
+	"country": "Hong Kong",
+	"systemNotification": {
+		"phone": true,
+		"email": true
+	},
+	"marketingNotification": {
+		"sms": true,
+		"phone": true,
+		"email": true
+	}
+}

@@ -1,0 +1,100 @@
+{
+  "id": "bd274d2c-9fb1-4527-94ba-aa7d4aa65d38",
+  "orderNumber": "250709144648-5d38",
+  "status": "Pending",
+  "createdAt": "2025-07-09T06:46:48.052Z",
+  "updatedAt": "2025-07-09T06:46:48.104Z",
+  "memberId": "cb145885-e7b9-4517-bb44-b22304b7dd6b",
+  "sentCount": 0,
+  "paymentMethod": {},
+  "subTotal": 600,
+  "discount": 0,
+  "total": 600,
+  "orderItems": [
+    {
+      "name": "lol",
+      "ticketTypeId": "6d4b4890-dc1e-4b3c-8b83-a4f4b83aff6c",
+      "dates": [
+        "2025-07-25",
+        "2025-07-28",
+        "2025-07-29"
+      ],
+      "quantity": 3,
+      "ticketType": {
+        "id": "6d4b4890-dc1e-4b3c-8b83-a4f4b83aff6c",
+        "title": {
+          "zh-Hans": "CosParadise摄影师入场证",
+          "en": "Photographer's Pass",
+          "zh-Hant": "CosParadise攝影師入場證"
+        },
+        "image": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+        "imageByLang": {
+          "zh-Hans": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png",
+          "en": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023-en.png",
+          "zh-Hant": "https://acg23-cdn.acghk.cc/tickets/elefunpop-worldcome-ticket-2023.png"
+        },
+        "tags": {
+          "zh-Hans": [
+            "指定日期入场证",
+            "CosParadise",
+            "创天",
+            "每天限量500名",
+            "摄影师",
+            "Hall 3",
+            "实名登记"
+          ],
+          "en": [
+            "Dated Admission Pass",
+            "CosParadise",
+            "Creative Paradise",
+            "Limited 500 Units Per Day",
+            "Photographer",
+            "Hall 3",
+            "Real-name registration"
+          ],
+          "zh-Hant": [
+            "指定日期入場證",
+            "CosParadise",
+            "創天",
+            "每天限量500名",
+            "攝影師",
+            "Hall 3",
+            "實名登記"
+          ]
+        },
+        "type": "Photographer",
+        "status": "Enabled",
+        "startAt": "2025-07-24T16:00:00.000Z",
+        "expiredAt": "2025-07-29T15:59:59.999Z",
+        "maxPurchaseQuantity": 5,
+        "price": 200,
+        "ordering": 6,
+        "themeColor": "#ED1C25",
+        "terms": {
+          "zh-Hans": "<h1>CosParadise摄影师入场证条款及使用规则 :</h1><ol><li>每人每日限购一张指定日期入场证，购票时须实名登记姓名(须与身份证相符，入场时须出示身份证明核对)。</li><li>每证只限一人使用，可于当天无限次进出Hall 3 创天综合同人祭及 CosParadise，唯不可进入Hall 1场馆。</li><li>请直接前往Hall 3E通道入场，Hall 3E通道每日11:00am开放。</li><li>展览会将于每日关闭前15分钟停止进场。</li><li>可使用相机或录影机，唯不可以任何形式使用脚架等霸占地方的设备。</li><li>严禁于场内外设置任何霸占公用空间的设备或物品，包括但不限于地毯/帐篷/支架/脚架/布景/座地照明装置(任何尺寸)等，亦不可使用边长超过30厘米的照明用品或灯具(不论手提或座地)；如有违规，大会有权即时清理有关物品而不作另行通知。</li><li>严禁偷拍及盗录，拍摄前请先征求对象同意。</li><li>严禁携带大容量充电器到会场，高于100Wh (约27,000mAh)之充电器一律禁止使用。</li><li>严禁于场馆内进行任何形式的商业活动(不论现付/预付)。</li><li>不设退款，此证不能兑换现金。</li><li>此证只限指定日期使用，逾​​期作废。</li><li>CosParadise及创天综合同人祭开放时间：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展场内不准吸烟。</li><li>请勿携带危险物品进场，包括玻璃樽装饮品及利器等。</li><li>必须遵守CosParadise及创天综合同人祭场地守则及大会工作人员的指示，否则大会有权要求违规者离开会场。</li><li>大会保留更改此证「使用规则」之权利。如有任何争议，大会保留最终决定权。</li></ol>",
+          "en": "<h1>Terms and Conditions for Photographer's Pass :</h1><ol><li>Each person is limited to purchasing one date-specific pass per day. When purchasing pass, real-name registration is required (the name must match the ID card, and identification must be presented for verification upon entry).</li><li>Each pass is valid for one person only and allows unlimited entry and re-entry to Hall 3 Creative Paradise & CosParadise on the specified date, but does not grant access to Hall 1.</li><li>Please proceed directly to Hall 3, which opens at 11:00am daily.</li><li>Admission closes 15 minutes prior to the closing time of the Exhibition of that day.</li><li>Photography and videography are allowed, but the use of tripods or other equipment that occupies excessive space is prohibited.</li><li>Strictly prohibited to set up any equipment or items that occupy public space inside or outside the Hall, including but not limited to carpets, tents, stands, tripods, backdrops, and ground lighting devices (of any size). Additionally, lighting equipment or lamps with a side length exceeding 30 cm (whether portable or stationary) are not allowed. If there are any violations, the organizers reserve the right to remove the related items immediately without further notice.</li><li>Strictly prohibited from unauthorized photography and video recording. Please obtain the subject's consent before taking photos or videos.</li><li>Bringing large-capacity chargers to the venue is strictly prohibited. Chargers over 100Wh (approximately 27,000mAh) are not allowed for use.</li><li>Any form of commercial activity (whether paid on the spot or pre-paid) is strictly prohibited within the venue.</li><li>No refunds will be given for this ticket, and it cannot be exchanged for cash.</li><li>The pass is only valid for the specified date and will expire after that date.</li><li>CosParadise & Creative Paradise operating hours: July 25-28, 11am-9pm; July 29, 11am-8pm.</li><li>Smoking is strictly prohibited inside the exhibition hall.</li><li>Dangerous items such as glass bottles of beverages and sharp objects are not allowed inside the exhibition hall.</li><li>Visitors must comply with the CosParadise & Creative Paradise venue rules and follow the instructions of the Organiser, or they may be asked to leave the Exhibition.</li><li>The Organizer reserves the right to change the \"Terms and Conditions\" of the admission pass. In case of any disputes, the organizer reserves the final right of decision on all matters concerning the use of this pass.</li></ol>",
+          "zh-Hant": "<h1>CosParadise攝影師入場證條款及使用規則 :</h1><ol><li>每人每日限購一張指定日期入場證，購票時須實名登記姓名(須與身份證相符，入場時須出示身份證明核對)。</li><li>每證只限一人使用，可於當天無限次進出Hall 3 創天綜合同人祭及 CosParadise，唯不可進入Hall 1場館。</li><li>請直接前往Hall 3E通道入場，Hall 3E通道每日11:00am開放。</li><li>展覽會將於每日關閉前15分鐘停止進場。</li><li>可使用相機或錄影機，唯不可以任何形式使用腳架等霸佔地方的設備。</li><li>嚴禁於場內外設置任何霸佔公用空間的設備或物品，包括但不限於地毯/帳篷/支架/腳架/佈景/座地照明裝置(任何尺寸)等，亦不可使用邊長超過30厘米的照明用品或燈具(不論手提或座地)；如有違規，大會有權即時清理有關物品而不作另行通知。</li><li>嚴禁偷拍及盜錄，拍攝前請先徵求對象同意。</li><li>嚴禁攜帶大容量充電器到會場，高於100Wh (約27,000mAh)之充電器一律禁止使用。</li><li>嚴禁於場館內進行任何形式的商業活動(不論現付/預付)。</li><li>不設退款，此證不能兌換現金。</li><li>此證只限指定日期使用，逾期作廢。</li><li>CosParadise及創天綜合同人祭開放時間：7月25-28日，每日11am-9pm；7月29日11am-8pm。</li><li>展場內不准吸煙。</li><li>請勿攜帶危險物品進場，包括玻璃樽裝飲品及利器等。</li><li>必須遵守CosParadise及創天綜合同人祭場地守則及大會工作人員的指示，否則大會有權要求違規者離開會場。</li><li>大會保留更改此證「使用規則」之權利。如有任何爭議，大會保留最終決定權。</li></ol>"
+        },
+        "dates": [
+          "2025-07-25",
+          "2025-07-26",
+          "2025-07-27",
+          "2025-07-28",
+          "2025-07-29"
+        ],
+        "halls": [
+          3
+        ]
+      }
+    }
+  ],
+  "qfpayUrl": "https://openapi-hk.qfapi.com/checkstand/#/?appcode=25D16004FA664A93A8FBB4458475F540&checkout_expired_time=1752044508092&failed_url=acghk%3A%2F%2F%2FBuyTicketsFailed%2F250709144648-5d38&out_trade_no=250709144648-5d38&paysource=remotepay_checkout&return_url=acghk%3A%2F%2F%2FBuyTicketsSuccess%2F250709144648-5d38&sign_type=sha256&txamt=60000&txcurrcd=HKD&txdtm=2025-07-09%2014%3A46%3A48&udid=cb145885-e7b9-4517-bb44-b22304b7dd6b&sign=51cf00a1ad67b78eb7cbd25bb9bc179c23793c211b81e0819a8a152c6db627fc&lang=zh-hk",
+  "eventName": {
+    "zh-Hant": "香港動漫電玩節 2025",
+    "zh-Hans": "香港动漫电玩节 2025",
+    "en": "ANI-COM & GAMES HONG KONG 2025"
+  },
+  "eventStartDate": "2025-07-24T16:00:00.000Z",
+  "eventEndDate": "2025-07-29T15:59:59.000Z",
+  "paymentStatus": "Pending"
+}

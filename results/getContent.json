@@ -1,0 +1,278 @@
+{
+  "items": [
+    {
+      "id": "9e01bcf5-675b-4d56-84cd-bde74c4171e9",
+      "ordering": 1,
+      "type": "Section",
+      "updatedAt": "2025-06-19T10:19:17.741Z",
+      "children": [
+        {
+          "id": "d7465394-0de7-4583-b75e-25d575ad93cd",
+          "ordering": 4,
+          "type": "Carousel",
+          "content": {
+            "body": {
+              "en": "https://acg23-cdn.acghk.cc/banners/2025/ig.jpg",
+              "zh-Hans": "https://acg23-cdn.acghk.cc/banners/2025/ig.jpg",
+              "zh-Hant": "https://acg23-cdn.acghk.cc/banners/2025/ig.jpg"
+            },
+            "ctaLink": {
+              "en": "https://www.instagram.com/anicomhk/",
+              "zh-Hans": "https://www.instagram.com/anicomhk/",
+              "zh-Hant": "https://www.instagram.com/anicomhk/"
+            },
+            "type": "Image"
+          },
+          "updatedAt": "2025-06-19T10:19:18.320Z"
+        }
+      ]
+    },
+    {
+      "id": "f90f8c84-ad07-417b-8ab0-5d291c084f39",
+      "ordering": 8,
+      "type": "Section",
+      "updatedAt": "2025-06-19T10:19:18.629Z",
+      "children": [
+        {
+          "id": "8b77782c-cd17-4e59-8d93-deb2dde250b9",
+          "ordering": 9,
+          "type": "Image",
+          "content": {
+            "body": {
+              "en": "https://acg23-cdn.acghk.cc/banners/2025/queue-en.jpg",
+              "zh-Hans": "https://acg23-cdn.acghk.cc/banners/2025/queue-sc.jpg",
+              "zh-Hant": "https://acg23-cdn.acghk.cc/banners/2025/queue-tc.jpg"
+            },
+            "title": {
+              "en": "Line Up Arrangment",
+              "zh-Hans": "龙尾快讯",
+              "zh-Hant": "龍尾快訊"
+            },
+            "type": "Image"
+          },
+          "updatedAt": "2025-06-24T10:14:18.285Z"
+        }
+      ]
+    },
+    {
+      "id": "334fc9fc-9a20-43d1-ad9a-0f6d5947b734",
+      "ordering": 10,
+      "type": "Section",
+      "content": {
+        "type": "Text",
+        "title": {
+          "zh-Hans": "游览资讯",
+          "en": "Visiting info",
+          "zh-Hant": "遊覽資訊"
+        }
+      },
+      "updatedAt": "2025-06-19T10:19:18.930Z",
+      "children": [
+        {
+          "id": "c3281009-4d2e-4cc6-bd90-569def639116",
+          "ordering": 11,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_ticket.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_ticket.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_ticket.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Ticketing Arrangment",
+              "zh-Hans": "购票攻略",
+              "zh-Hant": "購票攻略"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.023Z"
+        },
+        {
+          "id": "99303aba-74a1-4e51-a0bb-8e0a51e06253",
+          "ordering": 12,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_guidemap.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_guidemap.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_guidemap.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Guide Map",
+              "zh-Hans": "场刊",
+              "zh-Hant": "場刊"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.124Z"
+        },
+        {
+          "id": "584474de-b9ce-44f1-b4d3-f4fb8a54b0f9",
+          "ordering": 13,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_exhibitor.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_exhibitor.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_exhibitor.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Exhibiton Floorplan & Exhibitor List",
+              "zh-Hans": "参展商及场馆图",
+              "zh-Hant": "參展商及場館圖"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.243Z"
+        },
+        {
+          "id": "090e8b5d-662e-4da5-b3a7-2f45eabd7d61",
+          "ordering": 14,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_cp.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_cp.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_cp.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Creative Paradise & WDPHK Exhibitor List",
+              "zh-Hans": "创天& WDPHK参展组织",
+              "zh-Hant": "創天& WDPHK參展組織"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.354Z"
+        },
+        {
+          "id": "6ebd056d-8448-4cd1-90f1-2950ddde96f6",
+          "ordering": 15,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_main_stage.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_main_stage.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_main_stage.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Stage Programme List",
+              "zh-Hans": "舞台节目表",
+              "zh-Hant": "舞台節目表"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.464Z"
+        },
+        {
+          "id": "21148b31-956c-48f8-8297-4f06b5d7e596",
+          "ordering": 16,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_cp_stage.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_cp_stage.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_cp_stage.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Creative Paradise Programme List",
+              "zh-Hans": "创天舞台节目表",
+              "zh-Hant": "創天舞台節目表"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.569Z"
+        },
+        {
+          "id": "0d42187d-d451-4431-8e18-334798fc8552",
+          "ordering": 17,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_master_stage.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_master_stage.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_master_stage.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Master's Platform Programme List",
+              "zh-Hans": "名家舞台时间表",
+              "zh-Hant": "名家舞台時間表"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.704Z"
+        },
+        {
+          "id": "7d153943-9cf2-473f-afa8-6b2a25e3f1af",
+          "ordering": 18,
+          "type": "Content",
+          "icon": {
+            "zh-Hans": "https://acg23-cdn.acghk.cc/icons/2024/button_weather.jpg",
+            "en": "https://acg23-cdn.acghk.cc/icons/2024/button_weather.jpg",
+            "zh-Hant": "https://acg23-cdn.acghk.cc/icons/2024/button_weather.jpg"
+          },
+          "content": {
+            "body": {
+              "en": "!Coming Soon",
+              "zh-Hans": "!即将推出",
+              "zh-Hant": "!即將推出"
+            },
+            "title": {
+              "en": "Special Weather Arrangement",
+              "zh-Hans": "恶劣天气安排",
+              "zh-Hant": "惡劣天氣安排"
+            },
+            "type": "Link"
+          },
+          "updatedAt": "2025-06-19T10:19:19.804Z"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "number": "3.0.0",
+    "ios": {
+      "buildNumber": 40,
+      "url": "itms-apps://apps.apple.com/hk/app/acghk-%E9%9B%BB%E7%8E%A9%E5%8B%95%E6%BC%AB%E7%AF%80-%E7%8E%A9%E5%85%B7%E5%B1%95-cosplay-%E6%BC%AB%E7%95%AB%E7%AF%80/id6448720295"
+    },
+    "android": {
+      "buildNumber": 40,
+      "url": "https://play.google.com/store/apps/details?id=com.iesg.acghk"
+    }
+  },
+  "showPriorityApplicationButton": true
+}
