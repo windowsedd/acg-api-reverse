@@ -60,8 +60,8 @@ async function main() {
 
     // 登入您的帳號
    const loginResult: LoginResponse | null = await api.Login({
-    email: "youremail@gmail.com,
-    password: process.env.PASSWORD as string,
+      email: "youremail@gmail.com",
+      password: process.env.PASSWORD as string,
     });
 
       if (loginResult?.result === "success" && loginResult.token) {
