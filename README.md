@@ -85,6 +85,16 @@ async function main() {
         //  orderId: "250709144648-5d38",
         // });
         // console.log("Order Detail:", orderDetail);
+         // [----- POST Order -----]
+        // const payload = buildTicketPayload({
+        //  ticketTypeId: "6d4b4890-dc1e-4b3c-8b83-a4f4b83aff6c",
+        //  quantity: 3,
+        //  dates: ["2025-07-25", "2025-07-28", "2025-07-29"],
+        //  name: "[YOUR-IRL_NAME]",
+        // });
+        // const postMemberOrders = await API.postMemberOrders({
+        //  payload,
+        // });
     }
 }
 
