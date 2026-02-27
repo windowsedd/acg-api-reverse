@@ -27,7 +27,7 @@
 1. 複製本專案的程式碼庫：
 
     ```bash
-    git clone https://github.com/windowsed1225/acg-api-reverse.git
+    git clone https://github.com/windowsedd/acg-api-reverse.git
     cd acg-api-reverse
     ```
 
